@@ -1,0 +1,16 @@
+{
+  "url": "https://api.github.com/repos/tianhui-tcl/pv-fee-dashboard/pages",
+  "status": "built",
+  "cname": null,
+  "custom_404": false,
+  "html_url": "https://tianhui-tcl.github.io/pv-fee-dashboard/",
+  "build_type": "legacy",
+  "source": {
+    "branch": "main",
+    "path": "/"
+  },
+  "public": true,
+  "protected_domain_state": null,
+  "pending_domain_unverified_at": null,
+  "https_enforced": true
+}
